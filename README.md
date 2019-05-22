@@ -1,4 +1,4 @@
 # ControlFip
 Controle Financeiro Pessoal
 
-Autora: Mônica Vicente
+Autor: Isaac Silvério
